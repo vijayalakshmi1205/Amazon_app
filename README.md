@@ -49,10 +49,5 @@ CICD Jenkins:
 ![Screenshot 2024-03-06 210810](https://github.com/vijayalakshmi1205/Amazon_app/assets/144942239/b58145a3-be55-4148-8a35-ce4ba596216f)
 t 2024-03-06 205832](https://github.com/vijayalakshmi1205/Amazon_app/assets/144942239/d194bd1b-a716-426f-b77a-16c583c0f5a8)
 
-![Screenshot 2024-03-06 205943](https://github.com/vijayalakshmi1205/Amazon_app/assets/144942239/e31781ef-8f79-4bad-a3f0-4475e0de7803)
-
-![Screenshot 2024-03-06 210743](https://github.com/vijayalakshmi1205/Amazon_app/assets/144942239/b4a5e3fc-b249-4d0e-b1c5-7d9ee9a20467)
-
-![Screenshot 2024-03-06 210810](https://github.com/vijayalakshmi1205/Amazon_app/assets/144942239/b58145a3-be55-4148-8a35-ce4ba596216f)
 
 
