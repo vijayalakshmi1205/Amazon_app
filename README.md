@@ -14,13 +14,19 @@ Step3:terraform install
 **Create File :**
 
 main.tf
+
 provider.tf
-install-jenkins.sh:
-   install jenkins
+
+install-jenkins.sh: install jenkins
+   
    install sonarqube
+   
    install npm
+   
    install nodejs
+  
    install owsap 
+   
    install trivy
 
 Terraform commands to provision
