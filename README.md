@@ -5,10 +5,14 @@
 Step1: create an IAM user
     Accesskey
     Passwordkey
+
 Step2:awscli
+
 Step3:terraform install
 
+
 **Create File :**
+
 main.tf
 provider.tf
 install-jenkins.sh:
