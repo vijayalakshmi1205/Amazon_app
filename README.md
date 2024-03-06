@@ -1,11 +1,14 @@
 ![Screenshot 2024-03-06 214105](https://github.com/vijayalakshmi1205/Amazon_app/assets/144942239/e5fc7109-e09b-4a0c-9e61-56981e126125)
+
 **pre-requisite:**
+
 Step1: create an IAM user
     Accesskey
     Passwordkey
 Step2:awscli
 Step3:terraform install
-Create File :
+
+**Create File :**
 main.tf
 provider.tf
 install-jenkins.sh:
